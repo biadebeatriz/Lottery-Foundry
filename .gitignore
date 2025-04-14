@@ -12,3 +12,5 @@ docs/
 
 # Dotenv file
 .env
+
+/broadcast/DeployRaffle.s.sol/11155111/
